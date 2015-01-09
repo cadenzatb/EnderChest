@@ -1,0 +1,8 @@
+name: GTAEnderChest
+version: 1.0
+description: test
+main: Trubby.co.th.GTAEnderChest
+author: Tub
+depend: [Essentials, GroupManager]
+commands:
+  convert:
